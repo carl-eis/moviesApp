@@ -1,13 +1,8 @@
-# Staticifier
-**THE** barebones static website template.
-
-Staticifier is a basic template for static websites. No generation, no scss or templating engine; just good ol' bootstrap.
-
-------
-
+# Movies App
+A simple angular app which will eventually be able to search through a list of movies.
 
 ###Before you start (Important!)
-You'll need to have **node.js** and **bower** installed to run this project. If you have not set up your development environment and installed node.js, please follow this guide: 
+You'll need to have **node.js** and **bower** installed to run this project. If you have not set up your development environment and installed node.js, please follow this guide:
 
 
 **Please click the appropriate link** for your operating system. After you finish the steps, return to this page.
@@ -18,10 +13,9 @@ You'll need to have **node.js** and **bower** installed to run this project. If 
 ###Using this project
 Step 1: Clone this project
 
-	$ git clone https://github.com/carl-eis/staticifier.git your-project-name
-
 Step 2: Install dependencies
 
     $ bower install
+    $ npm install
 
 That's all! Happy coding!
