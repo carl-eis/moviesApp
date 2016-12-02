@@ -1,0 +1,29 @@
+{
+  "name": "staticifier",
+  "authors": [
+    "Carl Eiserman <carleiserman@gmail.com>"
+  ],
+  "description": "A completely FRESH static site template",
+  "main": "index.html",
+  "keywords": [
+    "static",
+    "website",
+    "template"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/carl-eis/staticifier",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.6.3",
+    "bootstrap": "^3.3.6",
+    "animate.css": "^3.5.2",
+    "angular": "^1.5.9"
+  }
+}
